@@ -1,3 +1,7 @@
+# Chinese Restaurant - Simple & Elegant Food Order Landing Page
+
+**Chinese Restaurant** is a visually appealing and easy-to-use food order landing page, built using HTML and CSS.
+
 🍜 Project Overview — Chinese Restaurant Website
 
 🏠 Header Section
