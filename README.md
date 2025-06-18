@@ -1,23 +1,29 @@
-# Chinese Restaurant
+# Chinese Restaurant - Simple & Elegant Food Order Landing Page
 
-A visually engaging and responsive website for a Chinese restaurant, built with HTML and CSS. This project features elegant layouts, appetizing menu sections, and an inviting design to showcase your restaurant’s offerings, location, and ambiance. Perfect as a template or starting point for restaurant websites, it’s fully customizable and easy to adapt to your needs.
+**Chinese Restaurant** is a visually appealing and easy-to-use food order landing page, crafted with pure HTML and CSS.
 
-## Features
+---
 
-- Modern and responsive design
-- Menu showcase with appealing visuals
-- Clean, well-structured codebase in HTML and CSS
-- **Contact Us** form with fields for:
-  - Name
-  - Age
-  - Email  
-  Visitors can easily reach out to the restaurant by submitting their details.
+## 🌟 Project Overview
 
-## Getting Started
+- **Header Section**
+  - Features the brand title ("Chinese Restaurant") and navigation links (Home | Menu | Contact).
 
-Simply clone or download the repository and open `index.html` in your browser to view the website.
+- **Menu Display Section**
+  - Showcases four enticing food cards, each containing:
+    - Delicious dish image
+    - Dish name (e.g., "Kung Pao Chicken")
+    - Brief description
+    - "Order Now" button
 
-## Customization
+- **Contact Section (Footer)**
+  - Allows users to submit their details for order inquiries:
+    - Name
+    - Age
+    - Email
+    - "SEND" button for form submission
 
-You can easily modify the menu, restaurant information, and styling by editing the HTML and CSS files to match your own restaurant or project needs.
-Thank you visiting this page.
+---
+
+🔗 **Live site:** https://raji-k001.github.io/Chinese-restaurant/
+💻 **GitHub Repo:** https://github.com/raji-k001/Chinese-restaurant.git
